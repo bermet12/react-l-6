@@ -1,0 +1,26 @@
+.myLink {
+    display: flex;
+    background-color: #222222;
+    padding: 18px 41px 19px 32px;
+    justify-content: center;
+}
+
+a {
+    font-size: 25px;
+    color: #2e7d32;
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+.active {
+    color: yellowgreen;
+    cursor: default;
+}
+
+.css-13knzn3-MuiFormControl-root-MuiTextField-root .MuiOutlinedInput-root {
+    margin-bottom: 10px;
+}
+
+.myHeader {
+    color: #2e7d32;
+}
