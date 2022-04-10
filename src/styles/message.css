@@ -1,0 +1,17 @@
+.message {
+    text-align: left;
+    border-radius: 4px;
+    padding: 10px 10px;
+    margin: 15px 0px;
+    color: #2e7d32;
+    box-shadow: 0px 5px 10px 2px rgb(34 60 80 / 20%);
+    border: 1px solid #2e7d32;
+}
+
+.text {
+    white-space: pre-line;
+}
+
+.author {
+    font-weight: bold;
+}
